@@ -1,3 +1,4 @@
+-- skidded together by HTD (cordsare on discord)
 local BareBone = Instance.new("ScreenGui");
 local MainFrame = Instance.new("Frame");
 local UICorner = Instance.new("UICorner");
